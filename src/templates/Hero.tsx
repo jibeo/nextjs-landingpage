@@ -29,7 +29,7 @@ const Hero = () => (
         description="Votre spécialiste en développement Front-End"
         button={
           <Link href="https://jibeo.fr">
-            <Button color="bg-green-500">En savoir plus</Button>
+            <Button xl>En savoir plus</Button>
           </Link>
         }
       />
