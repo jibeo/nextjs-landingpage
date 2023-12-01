@@ -8,10 +8,10 @@ const Banner = () => (
   <Section>
     <CTABanner
       title="Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      subtitle="Start your Free Trial."
+      subtitle="Lorem ipsum dolor sit amet ."
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
-          <Button>Get Started</Button>
+        <Link href="https://jibeo.fr">
+          <Button>En savoir plus</Button>
         </Link>
       }
     />
