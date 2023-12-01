@@ -12,8 +12,8 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/jibeo/nextjs-landingpage.git">
-            GitHub
+          <Link href="#">
+            Derniers travaux
           </Link>
         </li>
       </NavbarTwoColumns>
@@ -23,7 +23,7 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            <span className="text-primary-500">Jibéo - Développeur React</span>
+            <span className="text-primary-400 drop-shadow-lg">Développeur Front-End</span>
           </>
         }
         description="Votre spécialiste en développement Front-End"
