@@ -16,9 +16,6 @@ const Hero = () => (
             GitHub
           </Link>
         </li>
-        <li>
-          <Link href="/">Se connecter</Link>
-        </li>
       </NavbarTwoColumns>
     </Section>
 
@@ -26,14 +23,13 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'Bienvenue \n'}
             <span className="text-primary-500">Jibéo - Développeur React</span>
           </>
         }
-        description="Votre spécialiste Front-End"
+        description="Votre spécialiste en développement Front-End"
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
-            <Button xl>En savoir plus</Button>
+          <Link href="https://jibeo.fr">
+            <Button color="bg-green-500">En savoir plus</Button>
           </Link>
         }
       />

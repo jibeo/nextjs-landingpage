@@ -8,7 +8,7 @@ const Banner = () => (
   <Section>
     <CTABanner
       title="Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      subtitle="Lorem ipsum dolor sit amet ."
+      subtitle="Lorem ipsum dolor sit amet."
       button={
         <Link href="https://jibeo.fr">
           <Button>En savoir plus</Button>
